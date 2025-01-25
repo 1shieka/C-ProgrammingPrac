@@ -15,6 +15,5 @@ int main() {
     while (num != 0);
        
     printf("Number of digits: %d\n", count);
-    printf("Vanshika Rawat 590013163\n");
     return 0;
 }
